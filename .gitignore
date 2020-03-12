@@ -1,0 +1,35 @@
+.DS_Store
+node_modules
+/dist
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+docs/favicon.ico
+docs/index.html
+docs/css/app.e3820176.css
+docs/js/0.c3f23575.js
+docs/js/0.c3f23575.js.map
+docs/js/1.ca5a4bb4.js
+docs/js/1.ca5a4bb4.js.map
+docs/js/2.ec1b83af.js
+docs/js/2.ec1b83af.js.map
+docs/js/app.8bd51b21.js
+docs/js/app.8bd51b21.js.map
+docs/js/chunk-vendors.49b782a4.js
+docs/js/chunk-vendors.49b782a4.js.map
+yarn.lock
